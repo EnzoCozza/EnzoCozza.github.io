@@ -1,0 +1,15 @@
+﻿ESTADO DEL TIEMPO,TEMPERATURA,HUMEDAD,VIENTO,¿JUGAR?
+Soleado,Caluroso,Alta,suave,No
+Soleado,Caluroso,Alta,fuerte,No
+Lluvioso,Frio,Normal,fuerte,No
+Lluvioso,Templado,Alta,fuerte,No
+Soleado,Templado,Alta,suave,No
+Cubierto,Caluroso,Alta,suave,SI
+Cubierto,Caluroso,Normal,suave,SI
+Cubierto,Frio,Normal,fuerte,SI
+Lluvioso,Frio,Normal,suave,SI
+Soleado,Frio,Normal,suave,SI
+Cubierto,Templado,Alta,fuerte,SI
+Lluvioso,Templado,Alta,suave,SI
+Lluvioso,Templado,Normal,suave,SI
+Soleado,Templado,Normal,fuerte,SI
